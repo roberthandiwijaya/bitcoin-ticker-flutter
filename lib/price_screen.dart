@@ -28,7 +28,7 @@ class _PriceScreenState extends State<PriceScreen> {
       pickerItems.add(Text(currency));};
     return pickerItems;
   }
-
+//  test
   @override
   Widget build(BuildContext context) {
     getPickerItems();
